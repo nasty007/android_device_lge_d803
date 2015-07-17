@@ -16,7 +16,7 @@
 
 include device/lge/g2-common/BoardConfigCommon.mk
 
-TARGET_KERNEL_CONFIG := cyanogenmod_d803_defconfig
+TARGET_KERNEL_CONFIG := aosp_d803_defconfig
 
 TARGET_OTA_ASSERT_DEVICE := d803,g2,galbi,d802
 
